@@ -1,4 +1,10 @@
 /**
+This token is a template with a 7% tax for eacht tx.
+This 7% is splitted that way: 
+3% of the supply is burned reducing total supply
+4% is distributed to all holders reflecting in their balances.
+
+
 // SPDX-License-Identifier: MIT
 
 */
